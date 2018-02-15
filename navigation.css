@@ -1,0 +1,29 @@
+.brand-centered {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.brand-centered .navbar-brand {
+  display: flex;
+  align-items: center;
+  height: 90px;
+}
+.navbar-toggle {
+    z-index: 1;
+}
+.img-responsive{
+
+    max-width: 100%;
+    height: auto;
+    display:block;
+}
+.navbar{
+    height:90px;
+}
+ a{
+    padding-top:20px;
+    height:90px;
+}
