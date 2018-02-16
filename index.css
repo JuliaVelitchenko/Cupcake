@@ -1,12 +1,26 @@
 #part1{
-	text-align: center;
-}
-#logo{
-	text-align: center;
+	background-image: url('img/background.png');
+	}
+
+
+#textpart1 h2{
+	font-family:'Asap';
+	font-weight: bold;
+	font-size:2em ;
 	
-	
+	/*margin-top:40px;*/
 
 }
-#logo_cat{
-	text-align: center;
+#textpart1 h6{
+
+	background-image: url('img/background1.png');
+	font-family:'Asap';
+	
+	font-size:1.1em ;
+	color: white;
+	padding-top:12px;
+	padding-bottom: 12px;
+	padding-right:8px;
+	padding-left: 12px;
+	margin-top:40px;
 }
